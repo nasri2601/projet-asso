@@ -100,7 +100,7 @@ export default {
 
     startTitleAnimation(){
       let tl = new TimelineMax({onUpdate:updatePercentage})
-tl.to(".img0",1 ,{opacity: 1},1)
+// tl.to(".img0",1 ,{opacity: 1},1)
 tl.to(".firstTitle",1 ,{opacity: 1},1.5)
 tl.to(".firstParagraph",1 ,{opacity: 1},1.7)
 tl.to(".btn1",1 ,{opacity: 1},2.2)
@@ -209,7 +209,7 @@ const scene = this.$scrollmagic.scene({
    width: 30%;
  margin-left: 35%;
  margin-top: 5%;
- opacity: 0;
+
    
  }
  .btn1{
