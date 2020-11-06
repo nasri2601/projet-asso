@@ -30,7 +30,7 @@
         <div class="articlesTitle">
           <h1>Actualité</h1>
         </div>
-        <div class="articlesparagraph"><h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi perferendis.</h2></div>
+        <div class="articlesparagraph"><h2>Loremde ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi perferendis.</h2></div>
         <Articles class="articles"/>
         <v-btn  color="#1E88E5" class="btn2" outlined large><p class="textBtn">Toutes les actualités...</p> </v-btn>
         
